@@ -1,0 +1,21 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+    #ROOTNAMESPACEBEGIN#
+public class #SCRIPTNAME#
+{
+    // Data
+    #NOTRIM#
+    // Public Members
+    #NOTRIM#
+    // Private Members
+    #NOTRIM#
+    // Unity Standard Methods
+    #NOTRIM#
+    // Public Methods
+    #NOTRIM#
+    // Private Methods
+    #NOTRIM#
+}
+#ROOTNAMESPACEEND#
