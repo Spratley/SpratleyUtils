@@ -1,2 +1,3 @@
 # Clang Format
-This is my personal C++ Clang Format preferences. The initial upload of the file is actually outdated, but I just want to keep it safe here in case I mess up as I work on V2. Once you see a second push to .clang-format, know that it's the one I'm actually using.
+This is my personal C++ Clang Format preferences.
+Additionally, I have included my Clang Labs, both Alphabetical and By Topic. Both contain demo code that you can run your Clang Format settings on to see what they do!
