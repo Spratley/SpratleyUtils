@@ -59,5 +59,6 @@ NamespaceIndentation: All
 SortIncludes: 'true'
 SortUsingDeclarations: 'false'
 SpaceAfterTemplateKeyword: 'true'
+ColumnLimit: 120
 
 ...
